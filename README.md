@@ -8,9 +8,13 @@
 - [x] Typescript
 - [x] Vitest
 - [x] Cypress
-- [ ] EditorConfig
+- [x] EditorConfig
 - [x] Prettier
 - [x] ESlint
+- [ ] Stylelint
+- [ ] Husky
+- [ ] lint-staged
+- [ ] commitlint
 - [x] Commitizen
 - [ ] Api Mock
 
