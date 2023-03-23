@@ -4,7 +4,7 @@
 - [x] Vue Router
 - [ ] i18n
 - [x] Pinia
-- [ ] Tailwind
+- [x] TailwindCSS
 - [x] Typescript
 - [x] Vitest
 - [x] Cypress
