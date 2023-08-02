@@ -2,7 +2,7 @@
 
 - [x] Vite
 - [x] Vue Router
-- [ ] i18n
+- [x] i18n
 - [x] Pinia
 - [x] TailwindCSS
 - [x] Typescript
