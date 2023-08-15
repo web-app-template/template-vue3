@@ -22,6 +22,20 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+## Scaffolding your vue 3 project
+
+With NPM:
+
+```bash
+npm create @app-template/app@latest my-vue3-project -- --template vue3
+```
+
+With PNPM:
+
+```bash
+pnpm create @app-template/app@latest my-vue3-project --template vue3
+```
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
