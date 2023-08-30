@@ -12,7 +12,7 @@
 - [x] Prettier
 - [x] ESlint
 - [ ] Stylelint
-- [ ] Husky
+- [x] Husky
 - [ ] lint-staged
 - [ ] commitlint
 - [x] Commitizen
