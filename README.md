@@ -14,7 +14,7 @@
 - [ ] Stylelint
 - [x] Husky
 - [ ] lint-staged
-- [ ] commitlint
+- [x] commitlint
 - [x] Commitizen
 - [ ] Api Mock
 - [ ] Image Minify
