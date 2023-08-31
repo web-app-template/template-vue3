@@ -16,7 +16,7 @@
 - [ ] lint-staged
 - [x] commitlint
 - [x] Commitizen
-- [ ] Api Mock
+- [x] Api Mock (Mock Service Worker)
 - [ ] Image Minify
 - [ ] Axios
 
